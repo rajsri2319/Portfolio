@@ -28,6 +28,14 @@ function Projects() {
           <p>
             Developed a web page that symbolizes the notes ui which is useful to store personal notes, developed using ReactJs, Html and css which includes some major topics of ReactJS like useState, useEffect and useContext.
           </p>
+          <a
+            href="https://aachi-sriraj-ayengar-diary-app.vercel.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="w3-button w3-light-grey"
+          >
+            Diary App
+          </a>
         </div>
         {/* Add more projects similarly */}
       </div>
