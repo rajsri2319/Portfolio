@@ -24,6 +24,10 @@ function Projects() {
             sunlight intensity and temperature. Integrated sensors and actuators
             to optimize energy efficiency and user comfort.
           </p>
+          <h3>Diary App</h3>
+          <p>
+            Developed a web page that symbolizes the notes ui which is useful to store personal notes, developed using ReactJs, Html and css which includes some major topics of ReactJS like useState, useEffect and useContext.
+          </p>
         </div>
         {/* Add more projects similarly */}
       </div>
